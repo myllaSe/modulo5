@@ -1,2 +1,2 @@
 # modulo5
-Atividade utilizado operadores matemáticos e condicionais no google colab.
+Atividade utilizando operadores matemáticos e condicionais no google colab.
